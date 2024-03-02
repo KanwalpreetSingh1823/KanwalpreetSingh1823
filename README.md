@@ -7,8 +7,8 @@ I love exploring new technologies and finding innovative solutions to complex pr
 
 #### ✨ Skills
 
-HTML | CSS | BOOTSTRAP | JAVASCRIPT | PYTHON | Git
-- 🚀 I’m currently doing HTML, CSS, JavaScript and Python Programming.
+HTML | CSS | BOOTSTRAP | JAVASCRIPT | C | PYTHON | Git
+- 🚀 I’m currently doing JavaScript and C Programming.
 - 📫 How to reach me:
 - www.linkedin.com/in/kanwalpreet-singh-3a5552295
 - kanwalpreets17@gmail.com
