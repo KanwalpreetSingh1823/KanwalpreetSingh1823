@@ -21,3 +21,5 @@ I love exploring new technologies and finding innovative solutions to complex pr
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanwalpreetsingh1823&show_icons=true&locale=en&layout=compact" alt="kanwalpreetsingh1823" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanwalpreetsingh1823&show_icons=true&locale=en" alt="kanwalpreetsingh1823" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanwalpreetsingh1823&" alt="kanwalpreetsingh1823" /></p>
