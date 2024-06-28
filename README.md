@@ -3,8 +3,6 @@
 I have a huge interest in 🚀 Full Stack Development and Data Structure and Algorithms.
 I love exploring new technologies and finding innovative solutions to complex problems.😃
 
-- 🌱 **I’m currently learning JavaScript and C Programming.**
-
 - 📫 How to reach me **kanwalpreets17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
