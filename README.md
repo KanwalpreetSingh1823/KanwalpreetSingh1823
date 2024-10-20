@@ -34,3 +34,6 @@ I love exploring new technologies and finding innovative solutions to complex pr
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanwalpreetsingh1823&show_icons=true&locale=en" alt="kanwalpreetsingh1823" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanwalpreetsingh1823&" alt="kanwalpreetsingh1823" /></p>
+
+
+[![An image of @kanwalpreetsingh1823's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanwalpreetsingh1823)](https://holopin.io/@kanwalpreetsingh1823)
